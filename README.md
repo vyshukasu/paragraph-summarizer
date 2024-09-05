@@ -2,7 +2,7 @@ Here's an example of a **`README.md`** file for your project:
 
 ---
 
-# Question-Answering Model with Gradio
+# Question-Answering Model and image summarization with Gradio
 
 This project uses a pre-trained `DistilBERT` model from Hugging Face's Transformers library to perform question-answering based on a given context. The user can input a context and a question, and the model will provide the answer. The web interface is built using **Gradio**.
 
