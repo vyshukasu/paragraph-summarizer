@@ -58,14 +58,6 @@ Once the app is running, it will generate a URL (e.g., `http://localhost:7860/`)
 3. **Model Answer**: 
    "Paris, France."
 
-## Sharing the App
 
-If you want to share your Gradio app with others (publicly accessible), you can use the `share=True` option when launching the interface. The command is already included in `app.py`, so you will get a shareable link automatically.
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
 This `README.md` provides essential information about the project, how to install dependencies, and how to run the app. It also gives an example to illustrate how the app works. You can customize it further based on your specific project needs.
